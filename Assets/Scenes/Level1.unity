@@ -4693,6 +4693,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rigidBody: {fileID: 1759234750}
+  spriteRenderer: {fileID: 1759234748}
 --- !u!95 &1759234753
 Animator:
   serializedVersion: 3
